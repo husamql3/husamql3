@@ -18,10 +18,6 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=husamahmud.husamahmud&"  />
 </div>
 
-###
-
-<br clear="both">
-
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=husamahmud&locale=en&mode=weekly&theme=dark&hide_border=true&border_radius=5" height="150" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=husamahmud&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=6&theme=dark&hide_border=false" height="150" alt="languages graph"  />
