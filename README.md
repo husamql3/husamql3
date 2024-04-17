@@ -5,8 +5,8 @@
 </div>
 
 
-<h3 style="text-align: center">
-Hi! My name is Hüsam <br/>
+<h3 align="center">
+Hi! My name is Hüsam 🥷🏻 <br/>
 I'm a Frontend Software Engineer <br/>
 Electrical and Electronics Engineer <br/>
 </h3>
