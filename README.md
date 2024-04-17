@@ -85,9 +85,11 @@ Electrical and Electronics Engineer <br/>
 </div>
 
 
-<h3 align="center">Connect with me:</h3>
+<h3 align="left">
+    Connect with me:
+</h3>
 
-<div style="display: flex; justify-content: center">
+<div>
   <a href="https://www.linkedin.com/in/husamahmud/" target="_blank">
     <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/LinkedIn.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
