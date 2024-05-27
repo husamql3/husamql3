@@ -18,12 +18,11 @@ Electrical and Electronics Engineer <br/>
 <br clear="both">
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=husamahmud&locale=en&mode=weekly&theme=dark&hide_border=true&border_radius=5" height="150" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=husamahmud&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=6&theme=dark&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
 <h3 align="left">
-    Frontnd Development:
+    Frontend Development:
 </h3>
 
 <div align="left" style="display: flex; gap: .5rem">
@@ -93,7 +92,7 @@ Electrical and Electronics Engineer <br/>
   <a href="https://www.linkedin.com/in/husamahmud/" target="_blank">
     <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/LinkedIn.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
-  <a href="mailto:devhusam@outlook.com" target="_blank">
+  <a href="mailto:proghusam@outlook.com" target="_blank">
     <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Gmail-Dark.svg" width="52" height="40" alt="gmail logo"  />
   </a>
   <a href="https://twitter.com/husamahmud" target="_blank">
