@@ -53,7 +53,6 @@ Electrical and Electronics Engineer <br/>
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/MySQL-Dark.svg" height="40" alt="mysql logo"  />
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Prisma.svg" height="40" alt="python logo"  />
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/PostgreSQL-Dark.svg" height="40" alt="python logo"  />
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/FastAPI.svg" height="40" alt="python logo"  />
 </div>
 
 <h3 align="left">
