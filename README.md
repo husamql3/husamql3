@@ -35,6 +35,7 @@ Electrical and Electronics Engineer <br/>
   <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Redux.svg" height="40" alt="redux logo"  />
   <img src="https://skillicons.dev/icons?i=vite" height="40" alt="vite logo"  />
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/NextJS-Dark.svg" height="40" alt="next logo" />
   <img src="https://skillicons.dev/icons?i=materialui" height="40" alt="materialui logo"  />
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/GraphQL-Dark.svg" height="40" alt="graphql"  />
 </div>
