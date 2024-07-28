@@ -46,7 +46,8 @@ Electrical and Electronics Engineer <br/>
 
 <div align="left" style="display: flex; gap: .5rem">
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/NodeJS-Dark.svg" height="40" alt="nodejs logo"  />
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Firebase-Dark.svg" height="40" alt="firebase logo"  />
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Firebase-Dark.svg" height="40" alt="firebase logo" />
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Supabase-Dark.svg" alt="Supabase" width="40" height="40" />
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Flask-Dark.svg" height="40" alt="nodejs logo"  />
   <img src="https://skillicons.dev/icons?i=express" height="40" alt="express logo"  />
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/MongoDB.svg" height="40" alt="mongodb logo"  />
@@ -82,7 +83,6 @@ Electrical and Electronics Engineer <br/>
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Docker.svg" alt="postman" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Nginx.svg" alt="Nginx" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Vercel-Dark.svg" alt="Vercel" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Supabase-Dark.svg" alt="Supabase" width="40" height="40" />
 </div>
 
 
