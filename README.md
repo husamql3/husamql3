@@ -6,6 +6,6 @@
 
 <samp align="center">
 <div align="center">
-<a href="https://linkedin.com/in/husamahmud">linkedin</a> | <a href="https://husamahmud.com">website</a> | <a href="https://twitter.com/husamahmud">twitter</a>
+ <a href="https://www.husam.ninja">portfolio</a> | <a href="https://www.linkedin.com/in/husamahmud/">linkedin</a> | <a href="https://twitter.com/husamql3">twitter</a>
 </div>
 </samp>
