@@ -11,7 +11,7 @@
   <a href="https://twitter.com/husamql3">twitter</a>
   <br/>
   Building
-  <a href="https://www.hviz.tech/">hviz</a>,
+  <a href="https://hviz.obl.ee">hviz</a>,
   <a href="https://www.pstrack.tech/">PStrack</a>,
   <a href="https://chromewebstore.google.com/detail/leetpush/gmagfdabfjaipjgdfgddjgongeemkalf">LeetPush</a>
 </div>
