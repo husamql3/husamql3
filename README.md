@@ -6,7 +6,7 @@
 
 <samp align="center">
 <div align="center">
- <a href="https://www.husam.obl.ee">portfolio</a> | 
+ <a href="https://www.husam.ninja">portfolio</a> | 
   <a href="https://www.linkedin.com/in/husamql3/">linkedin</a> | 
   <a href="https://twitter.com/husamql3">twitter</a>
   <br/>
