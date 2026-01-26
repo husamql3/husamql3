@@ -12,7 +12,7 @@
   <br/>
   Building
   <a href="https://dbstudio.sh">dbstudio</a>,
-  PStrack (WIP),
+  <a href="https://www.pstrack.app/">PStrack</a>,
   <a href="https://hviz.obl.ee">hviz</a>,
   <a href="https://chromewebstore.google.com/detail/leetpush/gmagfdabfjaipjgdfgddjgongeemkalf">LeetPush</a>
 </div>
