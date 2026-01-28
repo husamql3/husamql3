@@ -11,7 +11,7 @@
   <a href="https://twitter.com/husamql3">twitter</a>
   <br/>
   Building
-  <a href="https://dbstudio.sh">dbstudio</a>,
+  <a href="https://dbstudio.sh">db-studio</a>,
   <a href="https://www.pstrack.app/">PStrack</a>,
   <a href="https://hviz.obl.ee">hviz</a>,
   <a href="https://chromewebstore.google.com/detail/leetpush/gmagfdabfjaipjgdfgddjgongeemkalf">LeetPush</a>
