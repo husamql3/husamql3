@@ -9,15 +9,13 @@
  <a href="https://www.ql3.dev/">portfolio</a> | 
   <a href="https://www.linkedin.com/in/husamql3/">linkedin</a> | 
   <a href="https://twitter.com/husamql3">twitter</a> |
-  <a href="mailto:devhsmq@gmail.com">devhsmq@gmail.com</a>
 
-  
   <br/>
   
   Building
-  <a href="https://dbstudio.sh">db-studio</a>,
+  <a href="http://keeply.cc">keeply</a>,
+  <a href="https://dbstudio.sh">dbstudio</a>,
   <a href="https://www.pstrack.app/">PStrack</a>,
-  <a href="https://hviz.obl.ee">hviz</a>,
   <a href="https://chromewebstore.google.com/detail/leetpush/gmagfdabfjaipjgdfgddjgongeemkalf">LeetPush</a>
 </div>
 </samp>
