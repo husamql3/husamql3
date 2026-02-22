@@ -8,7 +8,7 @@
 <div align="center">
  <a href="https://www.ql3.dev/">portfolio</a> | 
   <a href="https://www.linkedin.com/in/husamql3/">linkedin</a> | 
-  <a href="https://twitter.com/husamql3">twitter</a> |
+  <a href="https://twitter.com/husamql3">twitter</a>
 
   <br/>
   
