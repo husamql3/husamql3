@@ -14,7 +14,7 @@
   
   Building
   <a href="http://keeply.cc">keeply</a>,
-  <a href="https://dbstudio.sh">dbstudio</a>,
+  <a href="https://dbstudio.sh">db-studio</a>,
   <a href="https://www.pstrack.app/">PStrack</a>,
   <a href="https://chromewebstore.google.com/detail/leetpush/gmagfdabfjaipjgdfgddjgongeemkalf">LeetPush</a>
 </div>
