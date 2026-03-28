@@ -13,9 +13,13 @@
    <br/>
   
   Building
-  <a href="http://keeply.cc">keeply</a>,
-  <a href="https://dbstudio.sh">db-studio</a>,
+  <a href="http://keeply.cc">keeply</a>
+  <img src="https://github.com/husamql3/keeply/blob/main/public/icon-light.png?raw=true" height="18"/>,
+  <a href="https://dbstudio.sh">db-studio</a>
+  <img src="https://github.com/husamql3/db-studio/blob/main/assets/logo-light.png?raw=true" height="18"/>,
   <a href="https://www.pstrack.app/">PStrack</a>,
+  <img src="https://github.com/husamql3/pstrack/blob/archive-v2/public/logo.png?raw=true" height="18"/>,
   <a href="https://chromewebstore.google.com/detail/leetpush/gmagfdabfjaipjgdfgddjgongeemkalf">LeetPush</a>
+  <img src="https://github.com/LeetPushExtension/LeetPush/blob/master/popup/public/logo.png?raw=true" height="18"/>
 </div>
 </samp>
