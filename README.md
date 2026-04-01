@@ -10,9 +10,8 @@
   <a href="https://www.linkedin.com/in/husamql3/">linkedin</a> | 
   <a href="https://twitter.com/husamql3">twitter</a>
 
-   <br/>
-  
-   <br/>
+   <br />
+   <br />
   
   Building
   <a href="http://keeply.cc">keeply</a>
