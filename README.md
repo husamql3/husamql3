@@ -1,5 +1,6 @@
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=husamahmud.husamahmud&" />
+  <img src="https://img.shields.io/github/stars/husamql3?style=flat&label=stars&logo=github&color=e3b341" />
 </div>
 
 <br />
